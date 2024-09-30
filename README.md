@@ -1,1 +1,1 @@
-# CNDP-CNDPD
+# Critical Node Detection Problem Solving CNDP-CNDPD
